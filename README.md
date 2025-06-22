@@ -63,5 +63,7 @@ fun androidDevLife(): List<String> {
 }
 
 fun main() {
-    androidDevLife()
+    androidDevLife().forEach { process ->
+        println(process.toString())
+    }
 }
