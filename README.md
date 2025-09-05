@@ -38,6 +38,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pixelh97&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixelh97&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pixelh97&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
+</div>
+
+  
   <img src="https://raw.githubusercontent.com/PixelHell97/PixelHell97/output/snake.svg" alt="Snake animation" />
 </div>
 
