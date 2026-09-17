@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile Application Developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer+%7C+Kotlin%2FJava+Expert;Clean+Architecture+Enthusiast;Open+Source+Contributor&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer+%7C+Kotlin%2FJava+Expert;Clean+Architecture+Enthusiast;Open+Source+Contributor&center=true&width=460&height=45">
 </p>
 
 ---
